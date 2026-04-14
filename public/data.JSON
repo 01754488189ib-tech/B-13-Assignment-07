@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Nusrat Jahan",
+        "picture": "https://images.unsplash.com/photo-1494790108377-be9c29b29330",
+        "email": "nusrat.jahan@gmail.com",
+        "days_since_contact": 10,
+        "status": "almost due",
+        "tags": [
+            "university",
+            "study partner"
+        ],
+        "bio": "Studied computer science together. Always helps with coding problems.",
+        "goal": 14,
+        "next_due_date": "2026-04-18"
+    },
+    {
+        "id": 2,
+        "name": "Shakil Khan",
+        "picture": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d",
+        "email": "shakil.khan@example.com",
+        "days_since_contact": 2,
+        "status": "on-track",
+        "tags": [
+            "gym buddy",
+            "motivation partner"
+        ],
+        "bio": "We push each other during workouts and track fitness goals together.",
+        "goal": 7,
+        "next_due_date": "2026-04-15"
+    },
+    {
+        "id": 3,
+        "name": "Farzana Akter",
+        "picture": "https://images.unsplash.com/photo-1544005313-94ddf0286df2",
+        "email": "farzana.akter@gmail.com",
+        "days_since_contact": 20,
+        "status": "overdue",
+        "tags": [
+            "family friend",
+            "neighbor"
+        ],
+        "bio": "Family friend since childhood. We used to celebrate festivals together.",
+        "goal": 14,
+        "next_due_date": "2026-03-26"
+    },
+    {
+        "id": 4,
+        "name": "Sadia Karim",
+        "picture": "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e",
+        "email": "sadia.karim@gmail.com",
+        "days_since_contact": 7,
+        "status": "on-track",
+        "tags": [
+            "online friend",
+            "design"
+        ],
+        "bio": "Connected through a design community. We share UI/UX ideas regularly.",
+        "goal": 14,
+        "next_due_date": "2026-04-21"
+    },
+    {
+        "id": 5,
+        "name": "Mahmudul Islam",
+        "picture": "https://images.unsplash.com/photo-1511367461989-f85a21fda167",
+        "email": "mahmudul.islam@gmail.com",
+        "days_since_contact": 16,
+        "status": "overdue",
+        "tags": [
+            "business",
+            "mentor"
+        ],
+        "bio": "Guides me on business ideas and freelancing opportunities.",
+        "goal": 14,
+        "next_due_date": "2026-04-01"
+    },
+    {
+        "id": 6,
+        "name": "Tania Sultana",
+        "picture": "https://images.unsplash.com/photo-1531123897727-8f129e1688ce",
+        "email": "tania.sultana@gmail.com",
+        "days_since_contact": 9,
+        "status": "almost due",
+        "tags": [
+            "college",
+            "travel buddy"
+        ],
+        "bio": "We love traveling together and exploring new places around Bangladesh.",
+        "goal": 14,
+        "next_due_date": "2026-04-19"
+    },
+    {
+        "id": 7,
+        "name": "Imran Hossain",
+        "picture": "https://images.unsplash.com/photo-1527980965255-d3b416303d12",
+        "email": "imran.hossain@gmail.com",
+        "days_since_contact": 13,
+        "status": "almost due",
+        "tags": [
+            "gym",
+            "fitness buddy"
+        ],
+        "bio": "Met at the gym. Keeps me motivated to stay consistent with workouts.",
+        "goal": 14,
+        "next_due_date": "2026-04-15"
+    },
+    {
+        "id": 8,
+        "name": "Rahim Uddin",
+        "picture": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e",
+        "email": "rahim.uddin@gmail.com",
+        "days_since_contact": 18,
+        "status": "overdue",
+        "tags": [
+            "school",
+            "close friend"
+        ],
+        "bio": "Grew up together in Kaliganj. We still talk about cricket and old school memories.",
+        "goal": 14,
+        "next_due_date": "2026-03-28"
+    }
+]
