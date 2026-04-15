@@ -68,7 +68,7 @@ export default function NotFound() {
                 </div>
                 <div className="flex justify-center mt-6">
                     <Link
-                        href="/"
+                        href="/blog"
                         className="btn btn-primary btn-wide hover:scale-110 hover:shadow-2xl transition-all duration-500 gap-3 font-bold uppercase tracking-widest group"
                     >
                         <svg
