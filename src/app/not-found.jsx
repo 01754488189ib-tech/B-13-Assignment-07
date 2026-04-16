@@ -1,8 +1,5 @@
-// NotFound in next.js
 
 import Link from 'next/link';
-
-// src/app/not-found.jsx
 
 export default function NotFound() {
     return (

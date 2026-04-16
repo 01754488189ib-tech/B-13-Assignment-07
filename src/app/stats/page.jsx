@@ -1,11 +1,11 @@
 import React from 'react';
 
-const StatsPage = () => {
+const FriendshipStats = () => {
     return (
         <div>
-            <h2>Stats</h2>
+            <h2>Friendship Stats</h2>
         </div>
     );
 };
 
-export default StatsPage;
+export default FriendshipStats;
