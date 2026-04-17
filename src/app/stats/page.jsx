@@ -75,8 +75,7 @@ const FriendshipStats = () => {
                                         paddingAngle={8}
                                         cornerRadius={12}
                                         dataKey="value"
-                                        isAnimationActive={true}
-                                    >
+                                        isAnimationActive={true}>
                                         {chartData.map((entry, index) => (
                                             <Cell
                                                 key={`cell-${index}`}
