@@ -32,7 +32,7 @@ const BlogDetailPage = ({ params }) => {
         loadData();
     }, [blogId]);
 
-    if (loading) return <div className="p-20 text-center font-bold text-slate-600 animate-pulse">Friend is  <span className="loading loading-spinner loading-xl"></span>  loading...</div>
+    if (loading) return <div className="p-20 text-center font-bold text-slate-600 animate-pulse">Friend is <span className="loading loading-spinner loading-xl"></span> loading...</div>
     else if (!friend) return <div className="flex justify-center items-center h-screen text-[#244D3F]"><span className="loading loading-spinner loading-xl"></span></div>;
 
 
@@ -43,7 +43,13 @@ const BlogDetailPage = ({ params }) => {
 
     const handleAction = (type) => {
         addLog(type, friend.name);
-        toast.success(`${type} recorded with ${friend.name}!`, {
+        toast.success(`${type} action performed for ${friend.name}`, {
+            position: "bottom-center",
+        });
+    };
+
+    const handleUtilityAction = (type) => {
+        toast.info(`${type} action performed for ${friend.name}`, {
             position: "bottom-center",
         });
     };
