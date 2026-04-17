@@ -7,7 +7,7 @@ import { GoDeviceCameraVideo } from "react-icons/go";
 import { IoBanOutline } from 'react-icons/io5';
 
 const TimelinePage = () => {
-    const { history = [] } = useTimeline();
+    const { history } = useTimeline();
 
     const renderIcon = (type) => {
         switch (type) {
